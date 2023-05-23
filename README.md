@@ -1,1 +1,2 @@
-# python_exercise
+# Python Exercises
+This repo contains exercises for practicing Python.
